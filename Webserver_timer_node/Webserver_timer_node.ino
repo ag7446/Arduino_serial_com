@@ -3,8 +3,8 @@
 #include <ESP8266WebServer.h>
  
 // Replace with your network credentials
-const char* ssid = "Telia-55EA1D";  // Enter SSID here
-const char* password = "9F2605B50B";  //Enter Password here
+const char* ssid = "XXXXXXXXX";  // Enter SSID here
+const char* password = "XXXXXXXXX";  //Enter Password here
  
 ESP8266WebServer server(80);   //instantiate server at port 80 (http port)
  
